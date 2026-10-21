@@ -1,0 +1,2494 @@
+{
+  "/": {
+    "path": "/",
+    "title": "ReptileBirds - Fast Word Finder & Anagram Solver",
+    "heading": "Word Finder & Anagram Studio",
+    "description": "Search 8,000+ verified tournament words. Find anagrams, deduce 5-letter clues, match letter patterns, and calculate official tile scores.",
+    "ruleType": "home"
+  },
+  "/words-starting-with-a": {
+    "path": "/words-starting-with-a",
+    "title": "Words Starting With A - ReptileBirds",
+    "heading": "Words Starting with A",
+    "description": "Comprehensive list of words beginning with \"A\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "a"
+  },
+  "/words-starting-with-b": {
+    "path": "/words-starting-with-b",
+    "title": "Words Starting With B - ReptileBirds",
+    "heading": "Words Starting with B",
+    "description": "Comprehensive list of words beginning with \"B\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "b"
+  },
+  "/words-starting-with-c": {
+    "path": "/words-starting-with-c",
+    "title": "Words Starting With C - ReptileBirds",
+    "heading": "Words Starting with C",
+    "description": "Comprehensive list of words beginning with \"C\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "c"
+  },
+  "/words-starting-with-d": {
+    "path": "/words-starting-with-d",
+    "title": "Words Starting With D - ReptileBirds",
+    "heading": "Words Starting with D",
+    "description": "Comprehensive list of words beginning with \"D\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "d"
+  },
+  "/words-starting-with-e": {
+    "path": "/words-starting-with-e",
+    "title": "Words Starting With E - ReptileBirds",
+    "heading": "Words Starting with E",
+    "description": "Comprehensive list of words beginning with \"E\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "e"
+  },
+  "/words-starting-with-f": {
+    "path": "/words-starting-with-f",
+    "title": "Words Starting With F - ReptileBirds",
+    "heading": "Words Starting with F",
+    "description": "Comprehensive list of words beginning with \"F\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "f"
+  },
+  "/words-starting-with-g": {
+    "path": "/words-starting-with-g",
+    "title": "Words Starting With G - ReptileBirds",
+    "heading": "Words Starting with G",
+    "description": "Comprehensive list of words beginning with \"G\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "g"
+  },
+  "/words-starting-with-h": {
+    "path": "/words-starting-with-h",
+    "title": "Words Starting With H - ReptileBirds",
+    "heading": "Words Starting with H",
+    "description": "Comprehensive list of words beginning with \"H\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "h"
+  },
+  "/words-starting-with-i": {
+    "path": "/words-starting-with-i",
+    "title": "Words Starting With I - ReptileBirds",
+    "heading": "Words Starting with I",
+    "description": "Comprehensive list of words beginning with \"I\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "i"
+  },
+  "/words-starting-with-j": {
+    "path": "/words-starting-with-j",
+    "title": "Words Starting With J - ReptileBirds",
+    "heading": "Words Starting with J",
+    "description": "Comprehensive list of words beginning with \"J\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "j"
+  },
+  "/words-starting-with-k": {
+    "path": "/words-starting-with-k",
+    "title": "Words Starting With K - ReptileBirds",
+    "heading": "Words Starting with K",
+    "description": "Comprehensive list of words beginning with \"K\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "k"
+  },
+  "/words-starting-with-l": {
+    "path": "/words-starting-with-l",
+    "title": "Words Starting With L - ReptileBirds",
+    "heading": "Words Starting with L",
+    "description": "Comprehensive list of words beginning with \"L\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "l"
+  },
+  "/words-starting-with-m": {
+    "path": "/words-starting-with-m",
+    "title": "Words Starting With M - ReptileBirds",
+    "heading": "Words Starting with M",
+    "description": "Comprehensive list of words beginning with \"M\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "m"
+  },
+  "/words-starting-with-n": {
+    "path": "/words-starting-with-n",
+    "title": "Words Starting With N - ReptileBirds",
+    "heading": "Words Starting with N",
+    "description": "Comprehensive list of words beginning with \"N\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "n"
+  },
+  "/words-starting-with-o": {
+    "path": "/words-starting-with-o",
+    "title": "Words Starting With O - ReptileBirds",
+    "heading": "Words Starting with O",
+    "description": "Comprehensive list of words beginning with \"O\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "o"
+  },
+  "/words-starting-with-p": {
+    "path": "/words-starting-with-p",
+    "title": "Words Starting With P - ReptileBirds",
+    "heading": "Words Starting with P",
+    "description": "Comprehensive list of words beginning with \"P\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "p"
+  },
+  "/words-starting-with-q": {
+    "path": "/words-starting-with-q",
+    "title": "Words Starting With Q - ReptileBirds",
+    "heading": "Words Starting with Q",
+    "description": "Comprehensive list of words beginning with \"Q\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "q"
+  },
+  "/words-starting-with-r": {
+    "path": "/words-starting-with-r",
+    "title": "Words Starting With R - ReptileBirds",
+    "heading": "Words Starting with R",
+    "description": "Comprehensive list of words beginning with \"R\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "r"
+  },
+  "/words-starting-with-s": {
+    "path": "/words-starting-with-s",
+    "title": "Words Starting With S - ReptileBirds",
+    "heading": "Words Starting with S",
+    "description": "Comprehensive list of words beginning with \"S\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "s"
+  },
+  "/words-starting-with-t": {
+    "path": "/words-starting-with-t",
+    "title": "Words Starting With T - ReptileBirds",
+    "heading": "Words Starting with T",
+    "description": "Comprehensive list of words beginning with \"T\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "t"
+  },
+  "/words-starting-with-u": {
+    "path": "/words-starting-with-u",
+    "title": "Words Starting With U - ReptileBirds",
+    "heading": "Words Starting with U",
+    "description": "Comprehensive list of words beginning with \"U\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "u"
+  },
+  "/words-starting-with-v": {
+    "path": "/words-starting-with-v",
+    "title": "Words Starting With V - ReptileBirds",
+    "heading": "Words Starting with V",
+    "description": "Comprehensive list of words beginning with \"V\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "v"
+  },
+  "/words-starting-with-w": {
+    "path": "/words-starting-with-w",
+    "title": "Words Starting With W - ReptileBirds",
+    "heading": "Words Starting with W",
+    "description": "Comprehensive list of words beginning with \"W\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "w"
+  },
+  "/words-starting-with-x": {
+    "path": "/words-starting-with-x",
+    "title": "Words Starting With X - ReptileBirds",
+    "heading": "Words Starting with X",
+    "description": "Comprehensive list of words beginning with \"X\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "x"
+  },
+  "/words-starting-with-y": {
+    "path": "/words-starting-with-y",
+    "title": "Words Starting With Y - ReptileBirds",
+    "heading": "Words Starting with Y",
+    "description": "Comprehensive list of words beginning with \"Y\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "y"
+  },
+  "/words-starting-with-z": {
+    "path": "/words-starting-with-z",
+    "title": "Words Starting With Z - ReptileBirds",
+    "heading": "Words Starting with Z",
+    "description": "Comprehensive list of words beginning with \"Z\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "z"
+  },
+  "/words-starting-with-al": {
+    "path": "/words-starting-with-al",
+    "title": "Words Starting With AL - ReptileBirds",
+    "heading": "Words Starting with AL",
+    "description": "Comprehensive list of words beginning with \"AL\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "al"
+  },
+  "/words-starting-with-ar": {
+    "path": "/words-starting-with-ar",
+    "title": "Words Starting With AR - ReptileBirds",
+    "heading": "Words Starting with AR",
+    "description": "Comprehensive list of words beginning with \"AR\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ar"
+  },
+  "/words-starting-with-ca": {
+    "path": "/words-starting-with-ca",
+    "title": "Words Starting With CA - ReptileBirds",
+    "heading": "Words Starting with CA",
+    "description": "Comprehensive list of words beginning with \"CA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ca"
+  },
+  "/words-starting-with-ch": {
+    "path": "/words-starting-with-ch",
+    "title": "Words Starting With CH - ReptileBirds",
+    "heading": "Words Starting with CH",
+    "description": "Comprehensive list of words beginning with \"CH\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ch"
+  },
+  "/words-starting-with-co": {
+    "path": "/words-starting-with-co",
+    "title": "Words Starting With CO - ReptileBirds",
+    "heading": "Words Starting with CO",
+    "description": "Comprehensive list of words beginning with \"CO\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "co"
+  },
+  "/words-starting-with-de": {
+    "path": "/words-starting-with-de",
+    "title": "Words Starting With DE - ReptileBirds",
+    "heading": "Words Starting with DE",
+    "description": "Comprehensive list of words beginning with \"DE\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "de"
+  },
+  "/words-starting-with-ed": {
+    "path": "/words-starting-with-ed",
+    "title": "Words Starting With ED - ReptileBirds",
+    "heading": "Words Starting with ED",
+    "description": "Comprehensive list of words beginning with \"ED\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ed"
+  },
+  "/words-starting-with-en": {
+    "path": "/words-starting-with-en",
+    "title": "Words Starting With EN - ReptileBirds",
+    "heading": "Words Starting with EN",
+    "description": "Comprehensive list of words beginning with \"EN\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "en"
+  },
+  "/words-starting-with-es": {
+    "path": "/words-starting-with-es",
+    "title": "Words Starting With ES - ReptileBirds",
+    "heading": "Words Starting with ES",
+    "description": "Comprehensive list of words beginning with \"ES\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "es"
+  },
+  "/words-starting-with-et": {
+    "path": "/words-starting-with-et",
+    "title": "Words Starting With ET - ReptileBirds",
+    "heading": "Words Starting with ET",
+    "description": "Comprehensive list of words beginning with \"ET\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "et"
+  },
+  "/words-starting-with-ex": {
+    "path": "/words-starting-with-ex",
+    "title": "Words Starting With EX - ReptileBirds",
+    "heading": "Words Starting with EX",
+    "description": "Comprehensive list of words beginning with \"EX\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ex"
+  },
+  "/words-starting-with-re": {
+    "path": "/words-starting-with-re",
+    "title": "Words Starting With RE - ReptileBirds",
+    "heading": "Words Starting with RE",
+    "description": "Comprehensive list of words beginning with \"RE\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "re"
+  },
+  "/words-starting-with-un": {
+    "path": "/words-starting-with-un",
+    "title": "Words Starting With UN - ReptileBirds",
+    "heading": "Words Starting with UN",
+    "description": "Comprehensive list of words beginning with \"UN\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "un"
+  },
+  "/words-starting-with-in": {
+    "path": "/words-starting-with-in",
+    "title": "Words Starting With IN - ReptileBirds",
+    "heading": "Words Starting with IN",
+    "description": "Comprehensive list of words beginning with \"IN\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "in"
+  },
+  "/words-starting-with-an": {
+    "path": "/words-starting-with-an",
+    "title": "Words Starting With AN - ReptileBirds",
+    "heading": "Words Starting with AN",
+    "description": "Comprehensive list of words beginning with \"AN\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "an"
+  },
+  "/words-starting-with-as": {
+    "path": "/words-starting-with-as",
+    "title": "Words Starting With AS - ReptileBirds",
+    "heading": "Words Starting with AS",
+    "description": "Comprehensive list of words beginning with \"AS\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "as"
+  },
+  "/words-starting-with-at": {
+    "path": "/words-starting-with-at",
+    "title": "Words Starting With AT - ReptileBirds",
+    "heading": "Words Starting with AT",
+    "description": "Comprehensive list of words beginning with \"AT\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "at"
+  },
+  "/words-starting-with-la": {
+    "path": "/words-starting-with-la",
+    "title": "Words Starting With LA - ReptileBirds",
+    "heading": "Words Starting with LA",
+    "description": "Comprehensive list of words beginning with \"LA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "la"
+  },
+  "/words-starting-with-mo": {
+    "path": "/words-starting-with-mo",
+    "title": "Words Starting With MO - ReptileBirds",
+    "heading": "Words Starting with MO",
+    "description": "Comprehensive list of words beginning with \"MO\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "mo"
+  },
+  "/words-starting-with-na": {
+    "path": "/words-starting-with-na",
+    "title": "Words Starting With NA - ReptileBirds",
+    "heading": "Words Starting with NA",
+    "description": "Comprehensive list of words beginning with \"NA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "na"
+  },
+  "/words-starting-with-sa": {
+    "path": "/words-starting-with-sa",
+    "title": "Words Starting With SA - ReptileBirds",
+    "heading": "Words Starting with SA",
+    "description": "Comprehensive list of words beginning with \"SA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "sa"
+  },
+  "/words-starting-with-sh": {
+    "path": "/words-starting-with-sh",
+    "title": "Words Starting With SH - ReptileBirds",
+    "heading": "Words Starting with SH",
+    "description": "Comprehensive list of words beginning with \"SH\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "sh"
+  },
+  "/words-starting-with-st": {
+    "path": "/words-starting-with-st",
+    "title": "Words Starting With ST - ReptileBirds",
+    "heading": "Words Starting with ST",
+    "description": "Comprehensive list of words beginning with \"ST\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "st"
+  },
+  "/words-starting-with-ta": {
+    "path": "/words-starting-with-ta",
+    "title": "Words Starting With TA - ReptileBirds",
+    "heading": "Words Starting with TA",
+    "description": "Comprehensive list of words beginning with \"TA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ta"
+  },
+  "/words-starting-with-te": {
+    "path": "/words-starting-with-te",
+    "title": "Words Starting With TE - ReptileBirds",
+    "heading": "Words Starting with TE",
+    "description": "Comprehensive list of words beginning with \"TE\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "te"
+  },
+  "/words-starting-with-th": {
+    "path": "/words-starting-with-th",
+    "title": "Words Starting With TH - ReptileBirds",
+    "heading": "Words Starting with TH",
+    "description": "Comprehensive list of words beginning with \"TH\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "th"
+  },
+  "/words-starting-with-to": {
+    "path": "/words-starting-with-to",
+    "title": "Words Starting With TO - ReptileBirds",
+    "heading": "Words Starting with TO",
+    "description": "Comprehensive list of words beginning with \"TO\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "to"
+  },
+  "/words-starting-with-tr": {
+    "path": "/words-starting-with-tr",
+    "title": "Words Starting With TR - ReptileBirds",
+    "heading": "Words Starting with TR",
+    "description": "Comprehensive list of words beginning with \"TR\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "tr"
+  },
+  "/words-starting-with-ae": {
+    "path": "/words-starting-with-ae",
+    "title": "Words Starting With AE - ReptileBirds",
+    "heading": "Words Starting with AE",
+    "description": "Comprehensive list of words beginning with \"AE\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ae"
+  },
+  "/words-starting-with-ag": {
+    "path": "/words-starting-with-ag",
+    "title": "Words Starting With AG - ReptileBirds",
+    "heading": "Words Starting with AG",
+    "description": "Comprehensive list of words beginning with \"AG\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ag"
+  },
+  "/words-starting-with-ai": {
+    "path": "/words-starting-with-ai",
+    "title": "Words Starting With AI - ReptileBirds",
+    "heading": "Words Starting with AI",
+    "description": "Comprehensive list of words beginning with \"AI\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ai"
+  },
+  "/words-starting-with-am": {
+    "path": "/words-starting-with-am",
+    "title": "Words Starting With AM - ReptileBirds",
+    "heading": "Words Starting with AM",
+    "description": "Comprehensive list of words beginning with \"AM\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "am"
+  },
+  "/words-starting-with-ao": {
+    "path": "/words-starting-with-ao",
+    "title": "Words Starting With AO - ReptileBirds",
+    "heading": "Words Starting with AO",
+    "description": "Comprehensive list of words beginning with \"AO\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ao"
+  },
+  "/words-starting-with-ba": {
+    "path": "/words-starting-with-ba",
+    "title": "Words Starting With BA - ReptileBirds",
+    "heading": "Words Starting with BA",
+    "description": "Comprehensive list of words beginning with \"BA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ba"
+  },
+  "/words-starting-with-bo": {
+    "path": "/words-starting-with-bo",
+    "title": "Words Starting With BO - ReptileBirds",
+    "heading": "Words Starting with BO",
+    "description": "Comprehensive list of words beginning with \"BO\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "bo"
+  },
+  "/words-starting-with-br": {
+    "path": "/words-starting-with-br",
+    "title": "Words Starting With BR - ReptileBirds",
+    "heading": "Words Starting with BR",
+    "description": "Comprehensive list of words beginning with \"BR\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "br"
+  },
+  "/words-starting-with-ce": {
+    "path": "/words-starting-with-ce",
+    "title": "Words Starting With CE - ReptileBirds",
+    "heading": "Words Starting with CE",
+    "description": "Comprehensive list of words beginning with \"CE\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ce"
+  },
+  "/words-starting-with-cl": {
+    "path": "/words-starting-with-cl",
+    "title": "Words Starting With CL - ReptileBirds",
+    "heading": "Words Starting with CL",
+    "description": "Comprehensive list of words beginning with \"CL\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "cl"
+  },
+  "/words-starting-with-con": {
+    "path": "/words-starting-with-con",
+    "title": "Words Starting With CON - ReptileBirds",
+    "heading": "Words Starting with CON",
+    "description": "Comprehensive list of words beginning with \"CON\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "con"
+  },
+  "/words-starting-with-cr": {
+    "path": "/words-starting-with-cr",
+    "title": "Words Starting With CR - ReptileBirds",
+    "heading": "Words Starting with CR",
+    "description": "Comprehensive list of words beginning with \"CR\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "cr"
+  },
+  "/words-starting-with-cu": {
+    "path": "/words-starting-with-cu",
+    "title": "Words Starting With CU - ReptileBirds",
+    "heading": "Words Starting with CU",
+    "description": "Comprehensive list of words beginning with \"CU\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "cu"
+  },
+  "/words-starting-with-da": {
+    "path": "/words-starting-with-da",
+    "title": "Words Starting With DA - ReptileBirds",
+    "heading": "Words Starting with DA",
+    "description": "Comprehensive list of words beginning with \"DA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "da"
+  },
+  "/words-starting-with-di": {
+    "path": "/words-starting-with-di",
+    "title": "Words Starting With DI - ReptileBirds",
+    "heading": "Words Starting with DI",
+    "description": "Comprehensive list of words beginning with \"DI\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "di"
+  },
+  "/words-starting-with-dis": {
+    "path": "/words-starting-with-dis",
+    "title": "Words Starting With DIS - ReptileBirds",
+    "heading": "Words Starting with DIS",
+    "description": "Comprehensive list of words beginning with \"DIS\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "dis"
+  },
+  "/words-starting-with-fr": {
+    "path": "/words-starting-with-fr",
+    "title": "Words Starting With FR - ReptileBirds",
+    "heading": "Words Starting with FR",
+    "description": "Comprehensive list of words beginning with \"FR\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "fr"
+  },
+  "/words-starting-with-gi": {
+    "path": "/words-starting-with-gi",
+    "title": "Words Starting With GI - ReptileBirds",
+    "heading": "Words Starting with GI",
+    "description": "Comprehensive list of words beginning with \"GI\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "gi"
+  },
+  "/words-starting-with-gl": {
+    "path": "/words-starting-with-gl",
+    "title": "Words Starting With GL - ReptileBirds",
+    "heading": "Words Starting with GL",
+    "description": "Comprehensive list of words beginning with \"GL\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "gl"
+  },
+  "/words-starting-with-gr": {
+    "path": "/words-starting-with-gr",
+    "title": "Words Starting With GR - ReptileBirds",
+    "heading": "Words Starting with GR",
+    "description": "Comprehensive list of words beginning with \"GR\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "gr"
+  },
+  "/words-starting-with-ha": {
+    "path": "/words-starting-with-ha",
+    "title": "Words Starting With HA - ReptileBirds",
+    "heading": "Words Starting with HA",
+    "description": "Comprehensive list of words beginning with \"HA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ha"
+  },
+  "/words-starting-with-hi": {
+    "path": "/words-starting-with-hi",
+    "title": "Words Starting With HI - ReptileBirds",
+    "heading": "Words Starting with HI",
+    "description": "Comprehensive list of words beginning with \"HI\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "hi"
+  },
+  "/words-starting-with-id": {
+    "path": "/words-starting-with-id",
+    "title": "Words Starting With ID - ReptileBirds",
+    "heading": "Words Starting with ID",
+    "description": "Comprehensive list of words beginning with \"ID\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "id"
+  },
+  "/words-starting-with-im": {
+    "path": "/words-starting-with-im",
+    "title": "Words Starting With IM - ReptileBirds",
+    "heading": "Words Starting with IM",
+    "description": "Comprehensive list of words beginning with \"IM\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "im"
+  },
+  "/words-starting-with-it": {
+    "path": "/words-starting-with-it",
+    "title": "Words Starting With IT - ReptileBirds",
+    "heading": "Words Starting with IT",
+    "description": "Comprehensive list of words beginning with \"IT\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "it"
+  },
+  "/words-starting-with-ja": {
+    "path": "/words-starting-with-ja",
+    "title": "Words Starting With JA - ReptileBirds",
+    "heading": "Words Starting with JA",
+    "description": "Comprehensive list of words beginning with \"JA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ja"
+  },
+  "/words-starting-with-ma": {
+    "path": "/words-starting-with-ma",
+    "title": "Words Starting With MA - ReptileBirds",
+    "heading": "Words Starting with MA",
+    "description": "Comprehensive list of words beginning with \"MA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ma"
+  },
+  "/words-starting-with-op": {
+    "path": "/words-starting-with-op",
+    "title": "Words Starting With OP - ReptileBirds",
+    "heading": "Words Starting with OP",
+    "description": "Comprehensive list of words beginning with \"OP\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "op"
+  },
+  "/words-starting-with-out": {
+    "path": "/words-starting-with-out",
+    "title": "Words Starting With OUT - ReptileBirds",
+    "heading": "Words Starting with OUT",
+    "description": "Comprehensive list of words beginning with \"OUT\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "out"
+  },
+  "/words-starting-with-pe": {
+    "path": "/words-starting-with-pe",
+    "title": "Words Starting With PE - ReptileBirds",
+    "heading": "Words Starting with PE",
+    "description": "Comprehensive list of words beginning with \"PE\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "pe"
+  },
+  "/words-starting-with-ph": {
+    "path": "/words-starting-with-ph",
+    "title": "Words Starting With PH - ReptileBirds",
+    "heading": "Words Starting with PH",
+    "description": "Comprehensive list of words beginning with \"PH\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ph"
+  },
+  "/words-starting-with-pl": {
+    "path": "/words-starting-with-pl",
+    "title": "Words Starting With PL - ReptileBirds",
+    "heading": "Words Starting with PL",
+    "description": "Comprehensive list of words beginning with \"PL\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "pl"
+  },
+  "/words-starting-with-pre": {
+    "path": "/words-starting-with-pre",
+    "title": "Words Starting With PRE - ReptileBirds",
+    "heading": "Words Starting with PRE",
+    "description": "Comprehensive list of words beginning with \"PRE\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "pre"
+  },
+  "/words-starting-with-pro": {
+    "path": "/words-starting-with-pro",
+    "title": "Words Starting With PRO - ReptileBirds",
+    "heading": "Words Starting with PRO",
+    "description": "Comprehensive list of words beginning with \"PRO\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "pro"
+  },
+  "/words-starting-with-pu": {
+    "path": "/words-starting-with-pu",
+    "title": "Words Starting With PU - ReptileBirds",
+    "heading": "Words Starting with PU",
+    "description": "Comprehensive list of words beginning with \"PU\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "pu"
+  },
+  "/words-starting-with-ra": {
+    "path": "/words-starting-with-ra",
+    "title": "Words Starting With RA - ReptileBirds",
+    "heading": "Words Starting with RA",
+    "description": "Comprehensive list of words beginning with \"RA\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ra"
+  },
+  "/words-starting-with-qu": {
+    "path": "/words-starting-with-qu",
+    "title": "Words Starting With QU - ReptileBirds",
+    "heading": "Words Starting with QU",
+    "description": "Comprehensive list of words beginning with \"QU\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "qu"
+  },
+  "/words-starting-with-flu": {
+    "path": "/words-starting-with-flu",
+    "title": "Words Starting With FLU - ReptileBirds",
+    "heading": "Words Starting with FLU",
+    "description": "Comprehensive list of words beginning with \"FLU\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "flu"
+  },
+  "/words-starting-with-whi": {
+    "path": "/words-starting-with-whi",
+    "title": "Words Starting With WHI - ReptileBirds",
+    "heading": "Words Starting with WHI",
+    "description": "Comprehensive list of words beginning with \"WHI\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "whi"
+  },
+  "/words-starting-with-ll": {
+    "path": "/words-starting-with-ll",
+    "title": "Words Starting With LL - ReptileBirds",
+    "heading": "Words Starting with LL",
+    "description": "Comprehensive list of words beginning with \"LL\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ll"
+  },
+  "/words-starting-with-ts": {
+    "path": "/words-starting-with-ts",
+    "title": "Words Starting With TS - ReptileBirds",
+    "heading": "Words Starting with TS",
+    "description": "Comprehensive list of words beginning with \"TS\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "ts"
+  },
+  "/words-starting-with-my": {
+    "path": "/words-starting-with-my",
+    "title": "Words Starting With MY - ReptileBirds",
+    "heading": "Words Starting with MY",
+    "description": "Comprehensive list of words beginning with \"MY\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "my"
+  },
+  "/words-starting-with-sl": {
+    "path": "/words-starting-with-sl",
+    "title": "Words Starting With SL - ReptileBirds",
+    "heading": "Words Starting with SL",
+    "description": "Comprehensive list of words beginning with \"SL\". Real-time filtering, letter counts, and game valuations.",
+    "ruleType": "start",
+    "startsWith": "sl"
+  },
+  "/2-letter-words": {
+    "path": "/2-letter-words",
+    "title": "2-Letter Words Master List - ReptileBirds",
+    "heading": "2-Letter Words",
+    "description": "Complete list of legal 2-letter words for crossword puzzles, word games, and anagram solving.",
+    "ruleType": "len",
+    "length": 2
+  },
+  "/3-letter-words": {
+    "path": "/3-letter-words",
+    "title": "3-Letter Words Master List - ReptileBirds",
+    "heading": "3-Letter Words",
+    "description": "Complete list of legal 3-letter words for crossword puzzles, word games, and anagram solving.",
+    "ruleType": "len",
+    "length": 3
+  },
+  "/4-letter-words": {
+    "path": "/4-letter-words",
+    "title": "4-Letter Words Master List - ReptileBirds",
+    "heading": "4-Letter Words",
+    "description": "Complete list of legal 4-letter words for crossword puzzles, word games, and anagram solving.",
+    "ruleType": "len",
+    "length": 4
+  },
+  "/5-letter-words": {
+    "path": "/5-letter-words",
+    "title": "5-Letter Words Master List - ReptileBirds",
+    "heading": "5-Letter Words",
+    "description": "Complete list of legal 5-letter words for crossword puzzles, word games, and anagram solving.",
+    "ruleType": "len",
+    "length": 5
+  },
+  "/6-letter-words": {
+    "path": "/6-letter-words",
+    "title": "6-Letter Words Master List - ReptileBirds",
+    "heading": "6-Letter Words",
+    "description": "Complete list of legal 6-letter words for crossword puzzles, word games, and anagram solving.",
+    "ruleType": "len",
+    "length": 6
+  },
+  "/7-letter-words": {
+    "path": "/7-letter-words",
+    "title": "7-Letter Words Master List - ReptileBirds",
+    "heading": "7-Letter Words",
+    "description": "Complete list of legal 7-letter words for crossword puzzles, word games, and anagram solving.",
+    "ruleType": "len",
+    "length": 7
+  },
+  "/8-letter-words": {
+    "path": "/8-letter-words",
+    "title": "8-Letter Words Master List - ReptileBirds",
+    "heading": "8-Letter Words",
+    "description": "Complete list of legal 8-letter words for crossword puzzles, word games, and anagram solving.",
+    "ruleType": "len",
+    "length": 8
+  },
+  "/10-letter-words": {
+    "path": "/10-letter-words",
+    "title": "10-Letter Words Master List - ReptileBirds",
+    "heading": "10-Letter Words",
+    "description": "Complete list of legal 10-letter words for crossword puzzles, word games, and anagram solving.",
+    "ruleType": "len",
+    "length": 10
+  },
+  "/5-letter-words-starting-with-a": {
+    "path": "/5-letter-words-starting-with-a",
+    "title": "5-Letter Words Starting With A - ReptileBirds",
+    "heading": "5-Letter Words Starting with A",
+    "description": "All legal 5-letter tournament words beginning with \"A\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "a"
+  },
+  "/5-letter-words-starting-with-b": {
+    "path": "/5-letter-words-starting-with-b",
+    "title": "5-Letter Words Starting With B - ReptileBirds",
+    "heading": "5-Letter Words Starting with B",
+    "description": "All legal 5-letter tournament words beginning with \"B\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "b"
+  },
+  "/5-letter-words-starting-with-c": {
+    "path": "/5-letter-words-starting-with-c",
+    "title": "5-Letter Words Starting With C - ReptileBirds",
+    "heading": "5-Letter Words Starting with C",
+    "description": "All legal 5-letter tournament words beginning with \"C\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "c"
+  },
+  "/5-letter-words-starting-with-d": {
+    "path": "/5-letter-words-starting-with-d",
+    "title": "5-Letter Words Starting With D - ReptileBirds",
+    "heading": "5-Letter Words Starting with D",
+    "description": "All legal 5-letter tournament words beginning with \"D\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "d"
+  },
+  "/5-letter-words-starting-with-e": {
+    "path": "/5-letter-words-starting-with-e",
+    "title": "5-Letter Words Starting With E - ReptileBirds",
+    "heading": "5-Letter Words Starting with E",
+    "description": "All legal 5-letter tournament words beginning with \"E\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "e"
+  },
+  "/5-letter-words-starting-with-f": {
+    "path": "/5-letter-words-starting-with-f",
+    "title": "5-Letter Words Starting With F - ReptileBirds",
+    "heading": "5-Letter Words Starting with F",
+    "description": "All legal 5-letter tournament words beginning with \"F\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "f"
+  },
+  "/5-letter-words-starting-with-g": {
+    "path": "/5-letter-words-starting-with-g",
+    "title": "5-Letter Words Starting With G - ReptileBirds",
+    "heading": "5-Letter Words Starting with G",
+    "description": "All legal 5-letter tournament words beginning with \"G\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "g"
+  },
+  "/5-letter-words-starting-with-h": {
+    "path": "/5-letter-words-starting-with-h",
+    "title": "5-Letter Words Starting With H - ReptileBirds",
+    "heading": "5-Letter Words Starting with H",
+    "description": "All legal 5-letter tournament words beginning with \"H\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "h"
+  },
+  "/5-letter-words-starting-with-i": {
+    "path": "/5-letter-words-starting-with-i",
+    "title": "5-Letter Words Starting With I - ReptileBirds",
+    "heading": "5-Letter Words Starting with I",
+    "description": "All legal 5-letter tournament words beginning with \"I\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "i"
+  },
+  "/5-letter-words-starting-with-k": {
+    "path": "/5-letter-words-starting-with-k",
+    "title": "5-Letter Words Starting With K - ReptileBirds",
+    "heading": "5-Letter Words Starting with K",
+    "description": "All legal 5-letter tournament words beginning with \"K\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "k"
+  },
+  "/5-letter-words-starting-with-l": {
+    "path": "/5-letter-words-starting-with-l",
+    "title": "5-Letter Words Starting With L - ReptileBirds",
+    "heading": "5-Letter Words Starting with L",
+    "description": "All legal 5-letter tournament words beginning with \"L\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "l"
+  },
+  "/5-letter-words-starting-with-m": {
+    "path": "/5-letter-words-starting-with-m",
+    "title": "5-Letter Words Starting With M - ReptileBirds",
+    "heading": "5-Letter Words Starting with M",
+    "description": "All legal 5-letter tournament words beginning with \"M\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "m"
+  },
+  "/5-letter-words-starting-with-n": {
+    "path": "/5-letter-words-starting-with-n",
+    "title": "5-Letter Words Starting With N - ReptileBirds",
+    "heading": "5-Letter Words Starting with N",
+    "description": "All legal 5-letter tournament words beginning with \"N\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "n"
+  },
+  "/5-letter-words-starting-with-o": {
+    "path": "/5-letter-words-starting-with-o",
+    "title": "5-Letter Words Starting With O - ReptileBirds",
+    "heading": "5-Letter Words Starting with O",
+    "description": "All legal 5-letter tournament words beginning with \"O\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "o"
+  },
+  "/5-letter-words-starting-with-p": {
+    "path": "/5-letter-words-starting-with-p",
+    "title": "5-Letter Words Starting With P - ReptileBirds",
+    "heading": "5-Letter Words Starting with P",
+    "description": "All legal 5-letter tournament words beginning with \"P\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "p"
+  },
+  "/5-letter-words-starting-with-q": {
+    "path": "/5-letter-words-starting-with-q",
+    "title": "5-Letter Words Starting With Q - ReptileBirds",
+    "heading": "5-Letter Words Starting with Q",
+    "description": "All legal 5-letter tournament words beginning with \"Q\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "q"
+  },
+  "/5-letter-words-starting-with-r": {
+    "path": "/5-letter-words-starting-with-r",
+    "title": "5-Letter Words Starting With R - ReptileBirds",
+    "heading": "5-Letter Words Starting with R",
+    "description": "All legal 5-letter tournament words beginning with \"R\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "r"
+  },
+  "/5-letter-words-starting-with-s": {
+    "path": "/5-letter-words-starting-with-s",
+    "title": "5-Letter Words Starting With S - ReptileBirds",
+    "heading": "5-Letter Words Starting with S",
+    "description": "All legal 5-letter tournament words beginning with \"S\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "s"
+  },
+  "/5-letter-words-starting-with-t": {
+    "path": "/5-letter-words-starting-with-t",
+    "title": "5-Letter Words Starting With T - ReptileBirds",
+    "heading": "5-Letter Words Starting with T",
+    "description": "All legal 5-letter tournament words beginning with \"T\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "t"
+  },
+  "/5-letter-words-starting-with-u": {
+    "path": "/5-letter-words-starting-with-u",
+    "title": "5-Letter Words Starting With U - ReptileBirds",
+    "heading": "5-Letter Words Starting with U",
+    "description": "All legal 5-letter tournament words beginning with \"U\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "u"
+  },
+  "/5-letter-words-starting-with-w": {
+    "path": "/5-letter-words-starting-with-w",
+    "title": "5-Letter Words Starting With W - ReptileBirds",
+    "heading": "5-Letter Words Starting with W",
+    "description": "All legal 5-letter tournament words beginning with \"W\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "w"
+  },
+  "/5-letter-words-starting-with-x": {
+    "path": "/5-letter-words-starting-with-x",
+    "title": "5-Letter Words Starting With X - ReptileBirds",
+    "heading": "5-Letter Words Starting with X",
+    "description": "All legal 5-letter tournament words beginning with \"X\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "x"
+  },
+  "/5-letter-words-starting-with-y": {
+    "path": "/5-letter-words-starting-with-y",
+    "title": "5-Letter Words Starting With Y - ReptileBirds",
+    "heading": "5-Letter Words Starting with Y",
+    "description": "All legal 5-letter tournament words beginning with \"Y\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "y"
+  },
+  "/4-letter-words-starting-with-a": {
+    "path": "/4-letter-words-starting-with-a",
+    "title": "4-Letter Words Starting With A - ReptileBirds",
+    "heading": "4-Letter Words Starting with A",
+    "description": "All legal 4-letter tournament words beginning with \"A\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "a"
+  },
+  "/4-letter-words-starting-with-b": {
+    "path": "/4-letter-words-starting-with-b",
+    "title": "4-Letter Words Starting With B - ReptileBirds",
+    "heading": "4-Letter Words Starting with B",
+    "description": "All legal 4-letter tournament words beginning with \"B\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "b"
+  },
+  "/4-letter-words-starting-with-c": {
+    "path": "/4-letter-words-starting-with-c",
+    "title": "4-Letter Words Starting With C - ReptileBirds",
+    "heading": "4-Letter Words Starting with C",
+    "description": "All legal 4-letter tournament words beginning with \"C\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "c"
+  },
+  "/4-letter-words-starting-with-d": {
+    "path": "/4-letter-words-starting-with-d",
+    "title": "4-Letter Words Starting With D - ReptileBirds",
+    "heading": "4-Letter Words Starting with D",
+    "description": "All legal 4-letter tournament words beginning with \"D\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "d"
+  },
+  "/4-letter-words-starting-with-e": {
+    "path": "/4-letter-words-starting-with-e",
+    "title": "4-Letter Words Starting With E - ReptileBirds",
+    "heading": "4-Letter Words Starting with E",
+    "description": "All legal 4-letter tournament words beginning with \"E\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "e"
+  },
+  "/4-letter-words-starting-with-i": {
+    "path": "/4-letter-words-starting-with-i",
+    "title": "4-Letter Words Starting With I - ReptileBirds",
+    "heading": "4-Letter Words Starting with I",
+    "description": "All legal 4-letter tournament words beginning with \"I\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "i"
+  },
+  "/4-letter-words-starting-with-j": {
+    "path": "/4-letter-words-starting-with-j",
+    "title": "4-Letter Words Starting With J - ReptileBirds",
+    "heading": "4-Letter Words Starting with J",
+    "description": "All legal 4-letter tournament words beginning with \"J\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "j"
+  },
+  "/4-letter-words-starting-with-k": {
+    "path": "/4-letter-words-starting-with-k",
+    "title": "4-Letter Words Starting With K - ReptileBirds",
+    "heading": "4-Letter Words Starting with K",
+    "description": "All legal 4-letter tournament words beginning with \"K\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "k"
+  },
+  "/4-letter-words-starting-with-o": {
+    "path": "/4-letter-words-starting-with-o",
+    "title": "4-Letter Words Starting With O - ReptileBirds",
+    "heading": "4-Letter Words Starting with O",
+    "description": "All legal 4-letter tournament words beginning with \"O\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "o"
+  },
+  "/4-letter-words-starting-with-p": {
+    "path": "/4-letter-words-starting-with-p",
+    "title": "4-Letter Words Starting With P - ReptileBirds",
+    "heading": "4-Letter Words Starting with P",
+    "description": "All legal 4-letter tournament words beginning with \"P\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "p"
+  },
+  "/4-letter-words-starting-with-q": {
+    "path": "/4-letter-words-starting-with-q",
+    "title": "4-Letter Words Starting With Q - ReptileBirds",
+    "heading": "4-Letter Words Starting with Q",
+    "description": "All legal 4-letter tournament words beginning with \"Q\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "q"
+  },
+  "/4-letter-words-starting-with-r": {
+    "path": "/4-letter-words-starting-with-r",
+    "title": "4-Letter Words Starting With R - ReptileBirds",
+    "heading": "4-Letter Words Starting with R",
+    "description": "All legal 4-letter tournament words beginning with \"R\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "r"
+  },
+  "/4-letter-words-starting-with-s": {
+    "path": "/4-letter-words-starting-with-s",
+    "title": "4-Letter Words Starting With S - ReptileBirds",
+    "heading": "4-Letter Words Starting with S",
+    "description": "All legal 4-letter tournament words beginning with \"S\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "s"
+  },
+  "/4-letter-words-starting-with-t": {
+    "path": "/4-letter-words-starting-with-t",
+    "title": "4-Letter Words Starting With T - ReptileBirds",
+    "heading": "4-Letter Words Starting with T",
+    "description": "All legal 4-letter tournament words beginning with \"T\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "t"
+  },
+  "/4-letter-words-starting-with-u": {
+    "path": "/4-letter-words-starting-with-u",
+    "title": "4-Letter Words Starting With U - ReptileBirds",
+    "heading": "4-Letter Words Starting with U",
+    "description": "All legal 4-letter tournament words beginning with \"U\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "u"
+  },
+  "/4-letter-words-starting-with-x": {
+    "path": "/4-letter-words-starting-with-x",
+    "title": "4-Letter Words Starting With X - ReptileBirds",
+    "heading": "4-Letter Words Starting with X",
+    "description": "All legal 4-letter tournament words beginning with \"X\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "x"
+  },
+  "/4-letter-words-starting-with-y": {
+    "path": "/4-letter-words-starting-with-y",
+    "title": "4-Letter Words Starting With Y - ReptileBirds",
+    "heading": "4-Letter Words Starting with Y",
+    "description": "All legal 4-letter tournament words beginning with \"Y\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "y"
+  },
+  "/4-letter-words-starting-with-z": {
+    "path": "/4-letter-words-starting-with-z",
+    "title": "4-Letter Words Starting With Z - ReptileBirds",
+    "heading": "4-Letter Words Starting with Z",
+    "description": "All legal 4-letter tournament words beginning with \"Z\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 4,
+    "startsWith": "z"
+  },
+  "/3-letter-words-starting-with-a": {
+    "path": "/3-letter-words-starting-with-a",
+    "title": "3-Letter Words Starting With A - ReptileBirds",
+    "heading": "3-Letter Words Starting with A",
+    "description": "All legal 3-letter tournament words beginning with \"A\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "a"
+  },
+  "/3-letter-words-starting-with-b": {
+    "path": "/3-letter-words-starting-with-b",
+    "title": "3-Letter Words Starting With B - ReptileBirds",
+    "heading": "3-Letter Words Starting with B",
+    "description": "All legal 3-letter tournament words beginning with \"B\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "b"
+  },
+  "/3-letter-words-starting-with-c": {
+    "path": "/3-letter-words-starting-with-c",
+    "title": "3-Letter Words Starting With C - ReptileBirds",
+    "heading": "3-Letter Words Starting with C",
+    "description": "All legal 3-letter tournament words beginning with \"C\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "c"
+  },
+  "/3-letter-words-starting-with-d": {
+    "path": "/3-letter-words-starting-with-d",
+    "title": "3-Letter Words Starting With D - ReptileBirds",
+    "heading": "3-Letter Words Starting with D",
+    "description": "All legal 3-letter tournament words beginning with \"D\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "d"
+  },
+  "/3-letter-words-starting-with-e": {
+    "path": "/3-letter-words-starting-with-e",
+    "title": "3-Letter Words Starting With E - ReptileBirds",
+    "heading": "3-Letter Words Starting with E",
+    "description": "All legal 3-letter tournament words beginning with \"E\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "e"
+  },
+  "/3-letter-words-starting-with-i": {
+    "path": "/3-letter-words-starting-with-i",
+    "title": "3-Letter Words Starting With I - ReptileBirds",
+    "heading": "3-Letter Words Starting with I",
+    "description": "All legal 3-letter tournament words beginning with \"I\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "i"
+  },
+  "/3-letter-words-starting-with-o": {
+    "path": "/3-letter-words-starting-with-o",
+    "title": "3-Letter Words Starting With O - ReptileBirds",
+    "heading": "3-Letter Words Starting with O",
+    "description": "All legal 3-letter tournament words beginning with \"O\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "o"
+  },
+  "/3-letter-words-starting-with-q": {
+    "path": "/3-letter-words-starting-with-q",
+    "title": "3-Letter Words Starting With Q - ReptileBirds",
+    "heading": "3-Letter Words Starting with Q",
+    "description": "All legal 3-letter tournament words beginning with \"Q\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "q"
+  },
+  "/3-letter-words-starting-with-s": {
+    "path": "/3-letter-words-starting-with-s",
+    "title": "3-Letter Words Starting With S - ReptileBirds",
+    "heading": "3-Letter Words Starting with S",
+    "description": "All legal 3-letter tournament words beginning with \"S\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "s"
+  },
+  "/3-letter-words-starting-with-t": {
+    "path": "/3-letter-words-starting-with-t",
+    "title": "3-Letter Words Starting With T - ReptileBirds",
+    "heading": "3-Letter Words Starting with T",
+    "description": "All legal 3-letter tournament words beginning with \"T\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "t"
+  },
+  "/3-letter-words-starting-with-u": {
+    "path": "/3-letter-words-starting-with-u",
+    "title": "3-Letter Words Starting With U - ReptileBirds",
+    "heading": "3-Letter Words Starting with U",
+    "description": "All legal 3-letter tournament words beginning with \"U\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "u"
+  },
+  "/3-letter-words-starting-with-w": {
+    "path": "/3-letter-words-starting-with-w",
+    "title": "3-Letter Words Starting With W - ReptileBirds",
+    "heading": "3-Letter Words Starting with W",
+    "description": "All legal 3-letter tournament words beginning with \"W\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "w"
+  },
+  "/3-letter-words-starting-with-x": {
+    "path": "/3-letter-words-starting-with-x",
+    "title": "3-Letter Words Starting With X - ReptileBirds",
+    "heading": "3-Letter Words Starting with X",
+    "description": "All legal 3-letter tournament words beginning with \"X\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "x"
+  },
+  "/3-letter-words-starting-with-z": {
+    "path": "/3-letter-words-starting-with-z",
+    "title": "3-Letter Words Starting With Z - ReptileBirds",
+    "heading": "3-Letter Words Starting with Z",
+    "description": "All legal 3-letter tournament words beginning with \"Z\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 3,
+    "startsWith": "z"
+  },
+  "/6-letter-words-starting-with-a": {
+    "path": "/6-letter-words-starting-with-a",
+    "title": "6-Letter Words Starting With A - ReptileBirds",
+    "heading": "6-Letter Words Starting with A",
+    "description": "All legal 6-letter tournament words beginning with \"A\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "a"
+  },
+  "/6-letter-words-starting-with-b": {
+    "path": "/6-letter-words-starting-with-b",
+    "title": "6-Letter Words Starting With B - ReptileBirds",
+    "heading": "6-Letter Words Starting with B",
+    "description": "All legal 6-letter tournament words beginning with \"B\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "b"
+  },
+  "/6-letter-words-starting-with-c": {
+    "path": "/6-letter-words-starting-with-c",
+    "title": "6-Letter Words Starting With C - ReptileBirds",
+    "heading": "6-Letter Words Starting with C",
+    "description": "All legal 6-letter tournament words beginning with \"C\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "c"
+  },
+  "/6-letter-words-starting-with-e": {
+    "path": "/6-letter-words-starting-with-e",
+    "title": "6-Letter Words Starting With E - ReptileBirds",
+    "heading": "6-Letter Words Starting with E",
+    "description": "All legal 6-letter tournament words beginning with \"E\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "e"
+  },
+  "/6-letter-words-starting-with-i": {
+    "path": "/6-letter-words-starting-with-i",
+    "title": "6-Letter Words Starting With I - ReptileBirds",
+    "heading": "6-Letter Words Starting with I",
+    "description": "All legal 6-letter tournament words beginning with \"I\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "i"
+  },
+  "/6-letter-words-starting-with-k": {
+    "path": "/6-letter-words-starting-with-k",
+    "title": "6-Letter Words Starting With K - ReptileBirds",
+    "heading": "6-Letter Words Starting with K",
+    "description": "All legal 6-letter tournament words beginning with \"K\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "k"
+  },
+  "/6-letter-words-starting-with-m": {
+    "path": "/6-letter-words-starting-with-m",
+    "title": "6-Letter Words Starting With M - ReptileBirds",
+    "heading": "6-Letter Words Starting with M",
+    "description": "All legal 6-letter tournament words beginning with \"M\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "m"
+  },
+  "/6-letter-words-starting-with-n": {
+    "path": "/6-letter-words-starting-with-n",
+    "title": "6-Letter Words Starting With N - ReptileBirds",
+    "heading": "6-Letter Words Starting with N",
+    "description": "All legal 6-letter tournament words beginning with \"N\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "n"
+  },
+  "/6-letter-words-starting-with-r": {
+    "path": "/6-letter-words-starting-with-r",
+    "title": "6-Letter Words Starting With R - ReptileBirds",
+    "heading": "6-Letter Words Starting with R",
+    "description": "All legal 6-letter tournament words beginning with \"R\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "r"
+  },
+  "/6-letter-words-starting-with-s": {
+    "path": "/6-letter-words-starting-with-s",
+    "title": "6-Letter Words Starting With S - ReptileBirds",
+    "heading": "6-Letter Words Starting with S",
+    "description": "All legal 6-letter tournament words beginning with \"S\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "s"
+  },
+  "/6-letter-words-starting-with-t": {
+    "path": "/6-letter-words-starting-with-t",
+    "title": "6-Letter Words Starting With T - ReptileBirds",
+    "heading": "6-Letter Words Starting with T",
+    "description": "All legal 6-letter tournament words beginning with \"T\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "t"
+  },
+  "/7-letter-words-starting-with-a": {
+    "path": "/7-letter-words-starting-with-a",
+    "title": "7-Letter Words Starting With A - ReptileBirds",
+    "heading": "7-Letter Words Starting with A",
+    "description": "All legal 7-letter tournament words beginning with \"A\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 7,
+    "startsWith": "a"
+  },
+  "/7-letter-words-starting-with-d": {
+    "path": "/7-letter-words-starting-with-d",
+    "title": "7-Letter Words Starting With D - ReptileBirds",
+    "heading": "7-Letter Words Starting with D",
+    "description": "All legal 7-letter tournament words beginning with \"D\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 7,
+    "startsWith": "d"
+  },
+  "/7-letter-words-starting-with-f": {
+    "path": "/7-letter-words-starting-with-f",
+    "title": "7-Letter Words Starting With F - ReptileBirds",
+    "heading": "7-Letter Words Starting with F",
+    "description": "All legal 7-letter tournament words beginning with \"F\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 7,
+    "startsWith": "f"
+  },
+  "/7-letter-words-starting-with-m": {
+    "path": "/7-letter-words-starting-with-m",
+    "title": "7-Letter Words Starting With M - ReptileBirds",
+    "heading": "7-Letter Words Starting with M",
+    "description": "All legal 7-letter tournament words beginning with \"M\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 7,
+    "startsWith": "m"
+  },
+  "/7-letter-words-starting-with-p": {
+    "path": "/7-letter-words-starting-with-p",
+    "title": "7-Letter Words Starting With P - ReptileBirds",
+    "heading": "7-Letter Words Starting with P",
+    "description": "All legal 7-letter tournament words beginning with \"P\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 7,
+    "startsWith": "p"
+  },
+  "/7-letter-words-starting-with-s": {
+    "path": "/7-letter-words-starting-with-s",
+    "title": "7-Letter Words Starting With S - ReptileBirds",
+    "heading": "7-Letter Words Starting with S",
+    "description": "All legal 7-letter tournament words beginning with \"S\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 7,
+    "startsWith": "s"
+  },
+  "/8-letter-words-starting-with-a": {
+    "path": "/8-letter-words-starting-with-a",
+    "title": "8-Letter Words Starting With A - ReptileBirds",
+    "heading": "8-Letter Words Starting with A",
+    "description": "All legal 8-letter tournament words beginning with \"A\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 8,
+    "startsWith": "a"
+  },
+  "/8-letter-words-starting-with-c": {
+    "path": "/8-letter-words-starting-with-c",
+    "title": "8-Letter Words Starting With C - ReptileBirds",
+    "heading": "8-Letter Words Starting with C",
+    "description": "All legal 8-letter tournament words beginning with \"C\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 8,
+    "startsWith": "c"
+  },
+  "/8-letter-words-starting-with-e": {
+    "path": "/8-letter-words-starting-with-e",
+    "title": "8-Letter Words Starting With E - ReptileBirds",
+    "heading": "8-Letter Words Starting with E",
+    "description": "All legal 8-letter tournament words beginning with \"E\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 8,
+    "startsWith": "e"
+  },
+  "/8-letter-words-starting-with-s": {
+    "path": "/8-letter-words-starting-with-s",
+    "title": "8-Letter Words Starting With S - ReptileBirds",
+    "heading": "8-Letter Words Starting with S",
+    "description": "All legal 8-letter tournament words beginning with \"S\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 8,
+    "startsWith": "s"
+  },
+  "/2-letter-words-starting-with-q": {
+    "path": "/2-letter-words-starting-with-q",
+    "title": "2-Letter Words Starting With Q - ReptileBirds",
+    "heading": "2-Letter Words Starting with Q",
+    "description": "All legal 2-letter tournament words beginning with \"Q\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 2,
+    "startsWith": "q"
+  },
+  "/2-letter-words-starting-with-c": {
+    "path": "/2-letter-words-starting-with-c",
+    "title": "2-Letter Words Starting With C - ReptileBirds",
+    "heading": "2-Letter Words Starting with C",
+    "description": "All legal 2-letter tournament words beginning with \"C\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 2,
+    "startsWith": "c"
+  },
+  "/5-letter-words-starting-with-al": {
+    "path": "/5-letter-words-starting-with-al",
+    "title": "5-Letter Words Starting With AL - ReptileBirds",
+    "heading": "5-Letter Words Starting with AL",
+    "description": "All legal 5-letter tournament words beginning with \"AL\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "al"
+  },
+  "/5-letter-words-starting-with-am": {
+    "path": "/5-letter-words-starting-with-am",
+    "title": "5-Letter Words Starting With AM - ReptileBirds",
+    "heading": "5-Letter Words Starting with AM",
+    "description": "All legal 5-letter tournament words beginning with \"AM\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "am"
+  },
+  "/5-letter-words-starting-with-an": {
+    "path": "/5-letter-words-starting-with-an",
+    "title": "5-Letter Words Starting With AN - ReptileBirds",
+    "heading": "5-Letter Words Starting with AN",
+    "description": "All legal 5-letter tournament words beginning with \"AN\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "an"
+  },
+  "/5-letter-words-starting-with-ap": {
+    "path": "/5-letter-words-starting-with-ap",
+    "title": "5-Letter Words Starting With AP - ReptileBirds",
+    "heading": "5-Letter Words Starting with AP",
+    "description": "All legal 5-letter tournament words beginning with \"AP\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ap"
+  },
+  "/5-letter-words-starting-with-as": {
+    "path": "/5-letter-words-starting-with-as",
+    "title": "5-Letter Words Starting With AS - ReptileBirds",
+    "heading": "5-Letter Words Starting with AS",
+    "description": "All legal 5-letter tournament words beginning with \"AS\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "as"
+  },
+  "/5-letter-words-starting-with-at": {
+    "path": "/5-letter-words-starting-with-at",
+    "title": "5-Letter Words Starting With AT - ReptileBirds",
+    "heading": "5-Letter Words Starting with AT",
+    "description": "All legal 5-letter tournament words beginning with \"AT\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "at"
+  },
+  "/5-letter-words-starting-with-ba": {
+    "path": "/5-letter-words-starting-with-ba",
+    "title": "5-Letter Words Starting With BA - ReptileBirds",
+    "heading": "5-Letter Words Starting with BA",
+    "description": "All legal 5-letter tournament words beginning with \"BA\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ba"
+  },
+  "/5-letter-words-starting-with-ca": {
+    "path": "/5-letter-words-starting-with-ca",
+    "title": "5-Letter Words Starting With CA - ReptileBirds",
+    "heading": "5-Letter Words Starting with CA",
+    "description": "All legal 5-letter tournament words beginning with \"CA\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ca"
+  },
+  "/5-letter-words-starting-with-ch": {
+    "path": "/5-letter-words-starting-with-ch",
+    "title": "5-Letter Words Starting With CH - ReptileBirds",
+    "heading": "5-Letter Words Starting with CH",
+    "description": "All legal 5-letter tournament words beginning with \"CH\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ch"
+  },
+  "/5-letter-words-starting-with-clo": {
+    "path": "/5-letter-words-starting-with-clo",
+    "title": "5-Letter Words Starting With CLO - ReptileBirds",
+    "heading": "5-Letter Words Starting with CLO",
+    "description": "All legal 5-letter tournament words beginning with \"CLO\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "clo"
+  },
+  "/5-letter-words-starting-with-co": {
+    "path": "/5-letter-words-starting-with-co",
+    "title": "5-Letter Words Starting With CO - ReptileBirds",
+    "heading": "5-Letter Words Starting with CO",
+    "description": "All legal 5-letter tournament words beginning with \"CO\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "co"
+  },
+  "/5-letter-words-starting-with-da": {
+    "path": "/5-letter-words-starting-with-da",
+    "title": "5-Letter Words Starting With DA - ReptileBirds",
+    "heading": "5-Letter Words Starting with DA",
+    "description": "All legal 5-letter tournament words beginning with \"DA\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "da"
+  },
+  "/5-letter-words-starting-with-de": {
+    "path": "/5-letter-words-starting-with-de",
+    "title": "5-Letter Words Starting With DE - ReptileBirds",
+    "heading": "5-Letter Words Starting with DE",
+    "description": "All legal 5-letter tournament words beginning with \"DE\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "de"
+  },
+  "/5-letter-words-starting-with-di": {
+    "path": "/5-letter-words-starting-with-di",
+    "title": "5-Letter Words Starting With DI - ReptileBirds",
+    "heading": "5-Letter Words Starting with DI",
+    "description": "All legal 5-letter tournament words beginning with \"DI\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "di"
+  },
+  "/5-letter-words-starting-with-do": {
+    "path": "/5-letter-words-starting-with-do",
+    "title": "5-Letter Words Starting With DO - ReptileBirds",
+    "heading": "5-Letter Words Starting with DO",
+    "description": "All legal 5-letter tournament words beginning with \"DO\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "do"
+  },
+  "/5-letter-words-starting-with-dr": {
+    "path": "/5-letter-words-starting-with-dr",
+    "title": "5-Letter Words Starting With DR - ReptileBirds",
+    "heading": "5-Letter Words Starting with DR",
+    "description": "All legal 5-letter tournament words beginning with \"DR\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "dr"
+  },
+  "/5-letter-words-starting-with-ei": {
+    "path": "/5-letter-words-starting-with-ei",
+    "title": "5-Letter Words Starting With EI - ReptileBirds",
+    "heading": "5-Letter Words Starting with EI",
+    "description": "All legal 5-letter tournament words beginning with \"EI\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ei"
+  },
+  "/5-letter-words-starting-with-en": {
+    "path": "/5-letter-words-starting-with-en",
+    "title": "5-Letter Words Starting With EN - ReptileBirds",
+    "heading": "5-Letter Words Starting with EN",
+    "description": "All legal 5-letter tournament words beginning with \"EN\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "en"
+  },
+  "/5-letter-words-starting-with-flo": {
+    "path": "/5-letter-words-starting-with-flo",
+    "title": "5-Letter Words Starting With FLO - ReptileBirds",
+    "heading": "5-Letter Words Starting with FLO",
+    "description": "All legal 5-letter tournament words beginning with \"FLO\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "flo"
+  },
+  "/5-letter-words-starting-with-for": {
+    "path": "/5-letter-words-starting-with-for",
+    "title": "5-Letter Words Starting With FOR - ReptileBirds",
+    "heading": "5-Letter Words Starting with FOR",
+    "description": "All legal 5-letter tournament words beginning with \"FOR\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "for"
+  },
+  "/5-letter-words-starting-with-ga": {
+    "path": "/5-letter-words-starting-with-ga",
+    "title": "5-Letter Words Starting With GA - ReptileBirds",
+    "heading": "5-Letter Words Starting with GA",
+    "description": "All legal 5-letter tournament words beginning with \"GA\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ga"
+  },
+  "/5-letter-words-starting-with-ho": {
+    "path": "/5-letter-words-starting-with-ho",
+    "title": "5-Letter Words Starting With HO - ReptileBirds",
+    "heading": "5-Letter Words Starting with HO",
+    "description": "All legal 5-letter tournament words beginning with \"HO\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ho"
+  },
+  "/5-letter-words-starting-with-in": {
+    "path": "/5-letter-words-starting-with-in",
+    "title": "5-Letter Words Starting With IN - ReptileBirds",
+    "heading": "5-Letter Words Starting with IN",
+    "description": "All legal 5-letter tournament words beginning with \"IN\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "in"
+  },
+  "/5-letter-words-starting-with-it": {
+    "path": "/5-letter-words-starting-with-it",
+    "title": "5-Letter Words Starting With IT - ReptileBirds",
+    "heading": "5-Letter Words Starting with IT",
+    "description": "All legal 5-letter tournament words beginning with \"IT\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "it"
+  },
+  "/5-letter-words-starting-with-la": {
+    "path": "/5-letter-words-starting-with-la",
+    "title": "5-Letter Words Starting With LA - ReptileBirds",
+    "heading": "5-Letter Words Starting with LA",
+    "description": "All legal 5-letter tournament words beginning with \"LA\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "la"
+  },
+  "/5-letter-words-starting-with-li": {
+    "path": "/5-letter-words-starting-with-li",
+    "title": "5-Letter Words Starting With LI - ReptileBirds",
+    "heading": "5-Letter Words Starting with LI",
+    "description": "All legal 5-letter tournament words beginning with \"LI\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "li"
+  },
+  "/5-letter-words-starting-with-mo": {
+    "path": "/5-letter-words-starting-with-mo",
+    "title": "5-Letter Words Starting With MO - ReptileBirds",
+    "heading": "5-Letter Words Starting with MO",
+    "description": "All legal 5-letter tournament words beginning with \"MO\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "mo"
+  },
+  "/5-letter-words-starting-with-pi": {
+    "path": "/5-letter-words-starting-with-pi",
+    "title": "5-Letter Words Starting With PI - ReptileBirds",
+    "heading": "5-Letter Words Starting with PI",
+    "description": "All legal 5-letter tournament words beginning with \"PI\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "pi"
+  },
+  "/5-letter-words-starting-with-ra": {
+    "path": "/5-letter-words-starting-with-ra",
+    "title": "5-Letter Words Starting With RA - ReptileBirds",
+    "heading": "5-Letter Words Starting with RA",
+    "description": "All legal 5-letter tournament words beginning with \"RA\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ra"
+  },
+  "/5-letter-words-starting-with-re": {
+    "path": "/5-letter-words-starting-with-re",
+    "title": "5-Letter Words Starting With RE - ReptileBirds",
+    "heading": "5-Letter Words Starting with RE",
+    "description": "All legal 5-letter tournament words beginning with \"RE\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "re"
+  },
+  "/5-letter-words-starting-with-ro": {
+    "path": "/5-letter-words-starting-with-ro",
+    "title": "5-Letter Words Starting With RO - ReptileBirds",
+    "heading": "5-Letter Words Starting with RO",
+    "description": "All legal 5-letter tournament words beginning with \"RO\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ro"
+  },
+  "/5-letter-words-starting-with-ru": {
+    "path": "/5-letter-words-starting-with-ru",
+    "title": "5-Letter Words Starting With RU - ReptileBirds",
+    "heading": "5-Letter Words Starting with RU",
+    "description": "All legal 5-letter tournament words beginning with \"RU\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ru"
+  },
+  "/5-letter-words-starting-with-sa": {
+    "path": "/5-letter-words-starting-with-sa",
+    "title": "5-Letter Words Starting With SA - ReptileBirds",
+    "heading": "5-Letter Words Starting with SA",
+    "description": "All legal 5-letter tournament words beginning with \"SA\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "sa"
+  },
+  "/5-letter-words-starting-with-sh": {
+    "path": "/5-letter-words-starting-with-sh",
+    "title": "5-Letter Words Starting With SH - ReptileBirds",
+    "heading": "5-Letter Words Starting with SH",
+    "description": "All legal 5-letter tournament words beginning with \"SH\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "sh"
+  },
+  "/5-letter-words-starting-with-ta": {
+    "path": "/5-letter-words-starting-with-ta",
+    "title": "5-Letter Words Starting With TA - ReptileBirds",
+    "heading": "5-Letter Words Starting with TA",
+    "description": "All legal 5-letter tournament words beginning with \"TA\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ta"
+  },
+  "/5-letter-words-starting-with-th": {
+    "path": "/5-letter-words-starting-with-th",
+    "title": "5-Letter Words Starting With TH - ReptileBirds",
+    "heading": "5-Letter Words Starting with TH",
+    "description": "All legal 5-letter tournament words beginning with \"TH\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "th"
+  },
+  "/5-letter-words-starting-with-ti": {
+    "path": "/5-letter-words-starting-with-ti",
+    "title": "5-Letter Words Starting With TI - ReptileBirds",
+    "heading": "5-Letter Words Starting with TI",
+    "description": "All legal 5-letter tournament words beginning with \"TI\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "ti"
+  },
+  "/5-letter-words-starting-with-to": {
+    "path": "/5-letter-words-starting-with-to",
+    "title": "5-Letter Words Starting With TO - ReptileBirds",
+    "heading": "5-Letter Words Starting with TO",
+    "description": "All legal 5-letter tournament words beginning with \"TO\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "to"
+  },
+  "/5-letter-words-starting-with-un": {
+    "path": "/5-letter-words-starting-with-un",
+    "title": "5-Letter Words Starting With UN - ReptileBirds",
+    "heading": "5-Letter Words Starting with UN",
+    "description": "All legal 5-letter tournament words beginning with \"UN\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 5,
+    "startsWith": "un"
+  },
+  "/6-letter-words-starting-with-re": {
+    "path": "/6-letter-words-starting-with-re",
+    "title": "6-Letter Words Starting With RE - ReptileBirds",
+    "heading": "6-Letter Words Starting with RE",
+    "description": "All legal 6-letter tournament words beginning with \"RE\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 6,
+    "startsWith": "re"
+  },
+  "/10-letter-words-starting-with-in": {
+    "path": "/10-letter-words-starting-with-in",
+    "title": "10-Letter Words Starting With IN - ReptileBirds",
+    "heading": "10-Letter Words Starting with IN",
+    "description": "All legal 10-letter tournament words beginning with \"IN\". Filter by score, tile values, and letter distribution.",
+    "ruleType": "len-start",
+    "length": 10,
+    "startsWith": "in"
+  },
+  "/words-containing-b": {
+    "path": "/words-containing-b",
+    "title": "Words Containing B - ReptileBirds",
+    "heading": "Words Containing \"B\"",
+    "description": "Find all legal words containing the letter \"B\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "b"
+  },
+  "/words-containing-c": {
+    "path": "/words-containing-c",
+    "title": "Words Containing C - ReptileBirds",
+    "heading": "Words Containing \"C\"",
+    "description": "Find all legal words containing the letter \"C\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "c"
+  },
+  "/words-containing-d": {
+    "path": "/words-containing-d",
+    "title": "Words Containing D - ReptileBirds",
+    "heading": "Words Containing \"D\"",
+    "description": "Find all legal words containing the letter \"D\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "d"
+  },
+  "/words-containing-e": {
+    "path": "/words-containing-e",
+    "title": "Words Containing E - ReptileBirds",
+    "heading": "Words Containing \"E\"",
+    "description": "Find all legal words containing the letter \"E\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "e"
+  },
+  "/words-containing-f": {
+    "path": "/words-containing-f",
+    "title": "Words Containing F - ReptileBirds",
+    "heading": "Words Containing \"F\"",
+    "description": "Find all legal words containing the letter \"F\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "f"
+  },
+  "/words-containing-g": {
+    "path": "/words-containing-g",
+    "title": "Words Containing G - ReptileBirds",
+    "heading": "Words Containing \"G\"",
+    "description": "Find all legal words containing the letter \"G\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "g"
+  },
+  "/words-containing-h": {
+    "path": "/words-containing-h",
+    "title": "Words Containing H - ReptileBirds",
+    "heading": "Words Containing \"H\"",
+    "description": "Find all legal words containing the letter \"H\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "h"
+  },
+  "/words-containing-j": {
+    "path": "/words-containing-j",
+    "title": "Words Containing J - ReptileBirds",
+    "heading": "Words Containing \"J\"",
+    "description": "Find all legal words containing the letter \"J\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "j"
+  },
+  "/words-containing-k": {
+    "path": "/words-containing-k",
+    "title": "Words Containing K - ReptileBirds",
+    "heading": "Words Containing \"K\"",
+    "description": "Find all legal words containing the letter \"K\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "k"
+  },
+  "/words-containing-l": {
+    "path": "/words-containing-l",
+    "title": "Words Containing L - ReptileBirds",
+    "heading": "Words Containing \"L\"",
+    "description": "Find all legal words containing the letter \"L\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "l"
+  },
+  "/words-containing-m": {
+    "path": "/words-containing-m",
+    "title": "Words Containing M - ReptileBirds",
+    "heading": "Words Containing \"M\"",
+    "description": "Find all legal words containing the letter \"M\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "m"
+  },
+  "/words-containing-n": {
+    "path": "/words-containing-n",
+    "title": "Words Containing N - ReptileBirds",
+    "heading": "Words Containing \"N\"",
+    "description": "Find all legal words containing the letter \"N\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "n"
+  },
+  "/words-containing-o": {
+    "path": "/words-containing-o",
+    "title": "Words Containing O - ReptileBirds",
+    "heading": "Words Containing \"O\"",
+    "description": "Find all legal words containing the letter \"O\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "o"
+  },
+  "/words-containing-p": {
+    "path": "/words-containing-p",
+    "title": "Words Containing P - ReptileBirds",
+    "heading": "Words Containing \"P\"",
+    "description": "Find all legal words containing the letter \"P\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "p"
+  },
+  "/words-containing-q": {
+    "path": "/words-containing-q",
+    "title": "Words Containing Q - ReptileBirds",
+    "heading": "Words Containing \"Q\"",
+    "description": "Find all legal words containing the letter \"Q\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "q"
+  },
+  "/words-containing-r": {
+    "path": "/words-containing-r",
+    "title": "Words Containing R - ReptileBirds",
+    "heading": "Words Containing \"R\"",
+    "description": "Find all legal words containing the letter \"R\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "r"
+  },
+  "/words-containing-t": {
+    "path": "/words-containing-t",
+    "title": "Words Containing T - ReptileBirds",
+    "heading": "Words Containing \"T\"",
+    "description": "Find all legal words containing the letter \"T\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "t"
+  },
+  "/words-containing-u": {
+    "path": "/words-containing-u",
+    "title": "Words Containing U - ReptileBirds",
+    "heading": "Words Containing \"U\"",
+    "description": "Find all legal words containing the letter \"U\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "u"
+  },
+  "/words-containing-v": {
+    "path": "/words-containing-v",
+    "title": "Words Containing V - ReptileBirds",
+    "heading": "Words Containing \"V\"",
+    "description": "Find all legal words containing the letter \"V\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "v"
+  },
+  "/words-containing-w": {
+    "path": "/words-containing-w",
+    "title": "Words Containing W - ReptileBirds",
+    "heading": "Words Containing \"W\"",
+    "description": "Find all legal words containing the letter \"W\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "w"
+  },
+  "/words-containing-x": {
+    "path": "/words-containing-x",
+    "title": "Words Containing X - ReptileBirds",
+    "heading": "Words Containing \"X\"",
+    "description": "Find all legal words containing the letter \"X\". Filter by word length and calculate dual points.",
+    "ruleType": "contains",
+    "contains": "x"
+  },
+  "/words-containing-a-and-n": {
+    "path": "/words-containing-a-and-n",
+    "title": "Words Containing A and N - ReptileBirds",
+    "heading": "Words Containing \"A\" and \"N\"",
+    "description": "All tournament words containing both letters \"A\" and \"N\". Interactive filter and tile point values.",
+    "ruleType": "contains-two",
+    "containsA": "a",
+    "containsB": "n"
+  },
+  "/words-containing-a-and-d": {
+    "path": "/words-containing-a-and-d",
+    "title": "Words Containing A and D - ReptileBirds",
+    "heading": "Words Containing \"A\" and \"D\"",
+    "description": "All tournament words containing both letters \"A\" and \"D\". Interactive filter and tile point values.",
+    "ruleType": "contains-two",
+    "containsA": "a",
+    "containsB": "d"
+  },
+  "/words-containing-a-and-k": {
+    "path": "/words-containing-a-and-k",
+    "title": "Words Containing A and K - ReptileBirds",
+    "heading": "Words Containing \"A\" and \"K\"",
+    "description": "All tournament words containing both letters \"A\" and \"K\". Interactive filter and tile point values.",
+    "ruleType": "contains-two",
+    "containsA": "a",
+    "containsB": "k"
+  },
+  "/words-containing-a-and-p": {
+    "path": "/words-containing-a-and-p",
+    "title": "Words Containing A and P - ReptileBirds",
+    "heading": "Words Containing \"A\" and \"P\"",
+    "description": "All tournament words containing both letters \"A\" and \"P\". Interactive filter and tile point values.",
+    "ruleType": "contains-two",
+    "containsA": "a",
+    "containsB": "p"
+  },
+  "/words-containing-a-and-t": {
+    "path": "/words-containing-a-and-t",
+    "title": "Words Containing A and T - ReptileBirds",
+    "heading": "Words Containing \"A\" and \"T\"",
+    "description": "All tournament words containing both letters \"A\" and \"T\". Interactive filter and tile point values.",
+    "ruleType": "contains-two",
+    "containsA": "a",
+    "containsB": "t"
+  },
+  "/words-containing-i-and-r": {
+    "path": "/words-containing-i-and-r",
+    "title": "Words Containing I and R - ReptileBirds",
+    "heading": "Words Containing \"I\" and \"R\"",
+    "description": "All tournament words containing both letters \"I\" and \"R\". Interactive filter and tile point values.",
+    "ruleType": "contains-two",
+    "containsA": "i",
+    "containsB": "r"
+  },
+  "/words-containing-a-and-s": {
+    "path": "/words-containing-a-and-s",
+    "title": "Words Containing A and S - ReptileBirds",
+    "heading": "Words Containing \"A\" and \"S\"",
+    "description": "All tournament words containing both letters \"A\" and \"S\". Interactive filter and tile point values.",
+    "ruleType": "contains-two",
+    "containsA": "a",
+    "containsB": "s"
+  },
+  "/5-letter-words-containing-o": {
+    "path": "/5-letter-words-containing-o",
+    "title": "5-Letter Words Containing O - ReptileBirds",
+    "heading": "5-Letter Words Containing \"O\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"O\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "o"
+  },
+  "/5-letter-words-containing-t": {
+    "path": "/5-letter-words-containing-t",
+    "title": "5-Letter Words Containing T - ReptileBirds",
+    "heading": "5-Letter Words Containing \"T\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"T\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "t"
+  },
+  "/5-letter-words-containing-e": {
+    "path": "/5-letter-words-containing-e",
+    "title": "5-Letter Words Containing E - ReptileBirds",
+    "heading": "5-Letter Words Containing \"E\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"E\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "e"
+  },
+  "/5-letter-words-containing-c": {
+    "path": "/5-letter-words-containing-c",
+    "title": "5-Letter Words Containing C - ReptileBirds",
+    "heading": "5-Letter Words Containing \"C\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"C\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "c"
+  },
+  "/5-letter-words-containing-k": {
+    "path": "/5-letter-words-containing-k",
+    "title": "5-Letter Words Containing K - ReptileBirds",
+    "heading": "5-Letter Words Containing \"K\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"K\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "k"
+  },
+  "/5-letter-words-containing-r": {
+    "path": "/5-letter-words-containing-r",
+    "title": "5-Letter Words Containing R - ReptileBirds",
+    "heading": "5-Letter Words Containing \"R\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"R\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "r"
+  },
+  "/5-letter-words-containing-s": {
+    "path": "/5-letter-words-containing-s",
+    "title": "5-Letter Words Containing S - ReptileBirds",
+    "heading": "5-Letter Words Containing \"S\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"S\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "s"
+  },
+  "/5-letter-words-containing-f": {
+    "path": "/5-letter-words-containing-f",
+    "title": "5-Letter Words Containing F - ReptileBirds",
+    "heading": "5-Letter Words Containing \"F\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"F\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "f"
+  },
+  "/5-letter-words-containing-m": {
+    "path": "/5-letter-words-containing-m",
+    "title": "5-Letter Words Containing M - ReptileBirds",
+    "heading": "5-Letter Words Containing \"M\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"M\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "m"
+  },
+  "/5-letter-words-containing-p": {
+    "path": "/5-letter-words-containing-p",
+    "title": "5-Letter Words Containing P - ReptileBirds",
+    "heading": "5-Letter Words Containing \"P\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"P\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "p"
+  },
+  "/5-letter-words-containing-as": {
+    "path": "/5-letter-words-containing-as",
+    "title": "5-Letter Words Containing AS - ReptileBirds",
+    "heading": "5-Letter Words Containing \"AS\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"AS\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "as"
+  },
+  "/5-letter-words-containing-al": {
+    "path": "/5-letter-words-containing-al",
+    "title": "5-Letter Words Containing AL - ReptileBirds",
+    "heading": "5-Letter Words Containing \"AL\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"AL\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "al"
+  },
+  "/5-letter-words-containing-ar": {
+    "path": "/5-letter-words-containing-ar",
+    "title": "5-Letter Words Containing AR - ReptileBirds",
+    "heading": "5-Letter Words Containing \"AR\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"AR\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "ar"
+  },
+  "/5-letter-words-containing-re": {
+    "path": "/5-letter-words-containing-re",
+    "title": "5-Letter Words Containing RE - ReptileBirds",
+    "heading": "5-Letter Words Containing \"RE\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"RE\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "re"
+  },
+  "/5-letter-words-containing-se": {
+    "path": "/5-letter-words-containing-se",
+    "title": "5-Letter Words Containing SE - ReptileBirds",
+    "heading": "5-Letter Words Containing \"SE\"",
+    "description": "Every verified 5-letter word containing the letter sequence \"SE\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 5,
+    "contains": "se"
+  },
+  "/3-letter-words-containing-z": {
+    "path": "/3-letter-words-containing-z",
+    "title": "3-Letter Words Containing Z - ReptileBirds",
+    "heading": "3-Letter Words Containing \"Z\"",
+    "description": "Every verified 3-letter word containing the letter sequence \"Z\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 3,
+    "contains": "z"
+  },
+  "/3-letter-words-containing-k": {
+    "path": "/3-letter-words-containing-k",
+    "title": "3-Letter Words Containing K - ReptileBirds",
+    "heading": "3-Letter Words Containing \"K\"",
+    "description": "Every verified 3-letter word containing the letter sequence \"K\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 3,
+    "contains": "k"
+  },
+  "/3-letter-words-containing-s": {
+    "path": "/3-letter-words-containing-s",
+    "title": "3-Letter Words Containing S - ReptileBirds",
+    "heading": "3-Letter Words Containing \"S\"",
+    "description": "Every verified 3-letter word containing the letter sequence \"S\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 3,
+    "contains": "s"
+  },
+  "/2-letter-words-containing-q": {
+    "path": "/2-letter-words-containing-q",
+    "title": "2-Letter Words Containing Q - ReptileBirds",
+    "heading": "2-Letter Words Containing \"Q\"",
+    "description": "Every verified 2-letter word containing the letter sequence \"Q\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 2,
+    "contains": "q"
+  },
+  "/2-letter-words-containing-k": {
+    "path": "/2-letter-words-containing-k",
+    "title": "2-Letter Words Containing K - ReptileBirds",
+    "heading": "2-Letter Words Containing \"K\"",
+    "description": "Every verified 2-letter word containing the letter sequence \"K\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 2,
+    "contains": "k"
+  },
+  "/4-letter-words-containing-q": {
+    "path": "/4-letter-words-containing-q",
+    "title": "4-Letter Words Containing Q - ReptileBirds",
+    "heading": "4-Letter Words Containing \"Q\"",
+    "description": "Every verified 4-letter word containing the letter sequence \"Q\". Instant sorting and dual scoring.",
+    "ruleType": "len-contains",
+    "length": 4,
+    "contains": "q"
+  },
+  "/long-words": {
+    "path": "/long-words",
+    "title": "Long Words (8+ Letters) Master List - ReptileBirds",
+    "heading": "Long Words Master List",
+    "description": "Browse high-scoring 8, 9, 10, and 11-letter words for bingo rack plays and complex anagrams.",
+    "ruleType": "long",
+    "minLen": 8
+  },
+  "/long-words-starting-with-a": {
+    "path": "/long-words-starting-with-a",
+    "title": "Long Words Starting With A (8+ Letters) - ReptileBirds",
+    "heading": "Long Words Starting with A",
+    "description": "Complete list of high-value 8, 9, 10, and 11-letter tournament words starting with the letter A.",
+    "ruleType": "long-start",
+    "startsWith": "a",
+    "minLen": 8
+  },
+  "/long-words-starting-with-e": {
+    "path": "/long-words-starting-with-e",
+    "title": "Long Words Starting With E (8+ Letters) - ReptileBirds",
+    "heading": "Long Words Starting with E",
+    "description": "Complete list of high-value 8, 9, 10, and 11-letter tournament words starting with the letter E.",
+    "ruleType": "long-start",
+    "startsWith": "e",
+    "minLen": 8
+  },
+  "/long-words-starting-with-s": {
+    "path": "/long-words-starting-with-s",
+    "title": "Long Words Starting With S (8+ Letters) - ReptileBirds",
+    "heading": "Long Words Starting with S",
+    "description": "Complete list of high-value 8, 9, 10, and 11-letter tournament words starting with the letter S.",
+    "ruleType": "long-start",
+    "startsWith": "s",
+    "minLen": 8
+  },
+  "/long-words-starting-with-f": {
+    "path": "/long-words-starting-with-f",
+    "title": "Long Words Starting With F (8+ Letters) - ReptileBirds",
+    "heading": "Long Words Starting with F",
+    "description": "Complete list of high-value 8, 9, 10, and 11-letter tournament words starting with the letter F.",
+    "ruleType": "long-start",
+    "startsWith": "f",
+    "minLen": 8
+  },
+  "/long-words-starting-with-g": {
+    "path": "/long-words-starting-with-g",
+    "title": "Long Words Starting With G (8+ Letters) - ReptileBirds",
+    "heading": "Long Words Starting with G",
+    "description": "Complete list of high-value 8, 9, 10, and 11-letter tournament words starting with the letter G.",
+    "ruleType": "long-start",
+    "startsWith": "g",
+    "minLen": 8
+  },
+  "/long-words-starting-with-n": {
+    "path": "/long-words-starting-with-n",
+    "title": "Long Words Starting With N (8+ Letters) - ReptileBirds",
+    "heading": "Long Words Starting with N",
+    "description": "Complete list of high-value 8, 9, 10, and 11-letter tournament words starting with the letter N.",
+    "ruleType": "long-start",
+    "startsWith": "n",
+    "minLen": 8
+  },
+  "/long-words-starting-with-p": {
+    "path": "/long-words-starting-with-p",
+    "title": "Long Words Starting With P (8+ Letters) - ReptileBirds",
+    "heading": "Long Words Starting with P",
+    "description": "Complete list of high-value 8, 9, 10, and 11-letter tournament words starting with the letter P.",
+    "ruleType": "long-start",
+    "startsWith": "p",
+    "minLen": 8
+  },
+  "/long-words-starting-with-y": {
+    "path": "/long-words-starting-with-y",
+    "title": "Long Words Starting With Y (8+ Letters) - ReptileBirds",
+    "heading": "Long Words Starting with Y",
+    "description": "Complete list of high-value 8, 9, 10, and 11-letter tournament words starting with the letter Y.",
+    "ruleType": "long-start",
+    "startsWith": "y",
+    "minLen": 8
+  },
+  "/short-words": {
+    "path": "/short-words",
+    "title": "Short Words (2, 3 & 4 Letters) - ReptileBirds",
+    "heading": "Short Words Master List",
+    "description": "High-utility short words essential for close-quarters tile placement and parallel scoring.",
+    "ruleType": "short",
+    "maxLen": 4
+  },
+  "/short-words-starting-with-a": {
+    "path": "/short-words-starting-with-a",
+    "title": "Short Words Starting With A (2 to 4 Letters) - ReptileBirds",
+    "heading": "Short Words Starting with A",
+    "description": "Tactical 2, 3, and 4-letter words starting with A for tight board spaces and parallel plays.",
+    "ruleType": "short-start",
+    "startsWith": "a",
+    "maxLen": 4
+  },
+  "/short-words-starting-with-x": {
+    "path": "/short-words-starting-with-x",
+    "title": "Short Words Starting With X (2 to 4 Letters) - ReptileBirds",
+    "heading": "Short Words Starting with X",
+    "description": "Tactical 2, 3, and 4-letter words starting with X for tight board spaces and parallel plays.",
+    "ruleType": "short-start",
+    "startsWith": "x",
+    "maxLen": 4
+  },
+  "/best-wordle-starting-words": {
+    "path": "/best-wordle-starting-words",
+    "title": "Best 5-Letter Starting Words for Wordle - ReptileBirds",
+    "heading": "Best 5-Letter Wordle Starting Words",
+    "description": "Mathematically optimal 5-letter openers with maximal letter frequency coverage (SOARE, ROATE, SLATE, CRANE).",
+    "ruleType": "custom"
+  },
+  "/positive-words-starting-with-a": {
+    "path": "/positive-words-starting-with-a",
+    "title": "Positive Words Starting With A - ReptileBirds",
+    "heading": "Positive & Inspiring Words Starting with A",
+    "description": "Uplifting, optimistic, and encouraging words starting with letter A for speeches, writing, and word play.",
+    "ruleType": "custom",
+    "startsWith": "a"
+  },
+  "/cool-words-starting-with-a": {
+    "path": "/cool-words-starting-with-a",
+    "title": "Cool & Unique Words Starting With A - ReptileBirds",
+    "heading": "Cool Words Starting with A",
+    "description": "Fascinating, high-scoring, and rare words starting with the letter A for creative word games and writing.",
+    "ruleType": "custom",
+    "startsWith": "a"
+  },
+  "/easy-words-starting-with-e": {
+    "path": "/easy-words-starting-with-e",
+    "title": "Easy Words Starting With E - ReptileBirds",
+    "heading": "Easy Words Starting with E",
+    "description": "Simple, highly accessible words starting with the letter E for beginning readers, quick plays, and spelling.",
+    "ruleType": "custom",
+    "startsWith": "e",
+    "maxLen": 5
+  },
+  "/synonyms-to-begin-with": {
+    "path": "/synonyms-to-begin-with",
+    "title": "Synonyms & Phrases to Begin With - ReptileBirds",
+    "heading": "Synonyms & Starters to Begin With",
+    "description": "Starting phrases, opening transition verbs, and beginning synonyms for essays, storytelling, and puzzle solvers.",
+    "ruleType": "custom"
+  },
+  "/words-starting-with-y-ending-with-y": {
+    "path": "/words-starting-with-y-ending-with-y",
+    "title": "Words Starting With Y and Ending With Y - ReptileBirds",
+    "heading": "Words Starting with Y & Ending with Y",
+    "description": "Explore all legal tournament words that begin and end with the letter Y (yummy, yearly, yolkily).",
+    "ruleType": "custom",
+    "startsWith": "y",
+    "endsWith": "y"
+  }
+}

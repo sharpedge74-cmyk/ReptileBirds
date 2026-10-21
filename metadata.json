@@ -1,0 +1,8 @@
+{
+  "name": "ReptileBirds - Word Tool Engine",
+  "description": "Lightning-fast interactive word discovery studio with real-time anagram solving, pattern matching, Wordle clue deduction, and tile scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
